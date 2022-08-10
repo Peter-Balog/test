@@ -5,7 +5,7 @@ folder assignment.
 
 The code has to run from main.py.
 
-The example setup based on the task enclosed in a word document:
+The example setup is based on the task enclosed in a Word document:
 if __name__ == '__main__':
     x = ProcessData()
     x.main_build_table(['Port-channel', 'TenGigabitEthernet', 'GigabitEthernet'])
